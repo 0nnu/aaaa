@@ -1,6 +1,6 @@
 /**
     * @name CallTimeCounter
-    * @source https://github.com/QWERTxD/BetterDiscordPlugins/blob/main/CallTimeCounter/CallTimeCounter.plugin.js
+    * @source https://github.com/0nnu/aaaa
     * @description Shows how much time you are in a voice chat.
     * @updateUrl https://raw.githubusercontent.com/QWERTxD/BetterDiscordPlugins/main/CallTimeCounter/CallTimeCounter.plugin.js
     * @website https://github.com/QWERTxD/BetterDiscordPlugins/tree/main/CallTimeCounter
